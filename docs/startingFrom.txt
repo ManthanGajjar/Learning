@@ -1,0 +1,8 @@
+1.To learn JavaScript
+    No Doc, It's my primary Language
+2.To Learn Kotlin
+    https://docs.python.org/3/tutorial/index.html
+    https://devdocs.io/python~3.8/
+3.To learn Python
+    https://docs.python.org/3/tutorial/index.html
+
